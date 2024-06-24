@@ -1,0 +1,10 @@
+name: "Informe de  Kekoldi"
+navbar:
+  title: "Gira Kekoldi"
+  left:
+    - text: "Sinopsis "
+      href: Sinopsis.html
+    - text: "Resultados"
+      href: Resultados.html
+
+
